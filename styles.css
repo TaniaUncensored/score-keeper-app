@@ -1,0 +1,36 @@
+body {
+  margin-top: 100px;
+}
+
+div {
+  margin: none;
+  padding: none;
+}
+
+h4 {
+  display: inline-block;
+}
+
+#flexSwitchCheckDefault {
+  position:absolute;
+  top:75px;
+  margin-left: 0;
+}
+
+.gameBtn {
+  padding-left: 6px;
+  padding-right: 6px;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.darkmode {
+  background: black;
+  color: white;
+}
+
+.fullForm{
+  padding-left:0;
+}
